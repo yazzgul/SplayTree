@@ -6,4 +6,4 @@
 + данные запусков
 + замеры времени работы алгоритма и определение сложности
 + презентация
-+ [видео:)](https://www.youtube.com/watch?v=4qPOWeA-L5I)
++ [видео:)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
